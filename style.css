@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    background: url(./wp5134857.png);
+    background-attachment: fixed;
+}
+#headBlock {
+    width: 100%-20px;
+    font-size: 50px;
+    text-shadow: 2px 2px 3px black ;
+    height: 50px;
+    background-color: rgb(59, 44, 196);
+    border-bottom: 2px solid rgb(52, 81, 158);
+    padding-bottom: 15px;
+    color: rgb(245, 197, 135);
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+}
+article, aside {
+    background-color: rgb(241, 116, 137);
+    height: 500px;
+    border-radius: 10px;
+    border: 1px inset pink;
+    box-sizing: border-box;
+}
+article {
+    text-align: justify;
+    font-family: 'Satisfy', cursive;
+    font-weight: bolder;
+    font-size: 1.1em;
+    width: 50%;
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-left: 5%;
+    margin-right: 100px;
+    height: 400px;
+    float: right;
+}
+aside {
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 10px;
+    height: 400px;
+    
+}
+footer {
+    width: 100%-20px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: rgb(59, 44, 196);
+    border-bottom: 2px solid rgb(52, 81, 158);
+    padding: 10px;
+    font-size: 1.1em;
+    color: rgb(255, 71, 178);
+    font-family: Comic Sans MS;
+    text-align: center; 
+}
+
+
